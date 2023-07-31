@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "623944252699",
+    "project_id": "homebuzz-b8866",
+    "storage_bucket": "homebuzz-b8866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623944252699:android:6fcceb6312768b288ae7be",
+        "android_client_info": {
+          "package_name": "com.mycompany.homebuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623944252699-h0dfhihb3mie01nhc8l72qequvidhmmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJbuttAQiRj9Lx0ymz5E0Uv79SDsIY0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623944252699-h0dfhihb3mie01nhc8l72qequvidhmmk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623944252699-itpjf1dfpmi9al49310iptft1mqf6kg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.homebuzz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
